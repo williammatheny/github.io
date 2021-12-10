@@ -1,0 +1,80 @@
+html{
+	background: linear-gradient(110deg, #fdcd3b 50%, #d6ed79 60%);
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+p {
+	text-align: center;
+	font-size: 20px;
+}
+nav {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+ul {
+	text-align: center;
+	list-style: inside;
+}
+img {
+	margin-left: 550px;
+}
+a
+{
+	font-size: 18px;
+	text-decoration: none;
+	color: #2b5f6e;
+}
+
+.review
+{
+	
+    position:absolute;left:700px; top:300px;
+}
+
+.reviewtext
+{
+	font-size: 15px;
+	position:absolute;left: 1260px; top:605px;
+}
+
+.h1team
+{
+	margin-left: 50px;
+	font-size: 40px;
+}
+
+.h2team 
+{
+	margin-left: 50px;
+}
+
+.JenniferPhoto
+{
+	margin-left: 125px;
+}
+
+.maintext2
+{
+	margin-top: 50px;
+}
+
+.MainHeader
+{
+	color: Navy;
+}
+
+.wireframe
+{
+	
+}
+
+.sitemap
+{
+	
+}

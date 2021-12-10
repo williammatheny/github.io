@@ -1,0 +1,27 @@
+html
+{
+	background-color: #afede3;
+}
+.MainHeader
+{
+	text-align: center;
+	color: #153d19;
+	font-size: 40px;
+}
+
+footer 
+{
+	text-align: center;
+}
+
+.contractstatement
+{
+text-align: center;	
+}
+
+a
+{
+	color: #107029;
+	text-decoration: none;
+	
+}
